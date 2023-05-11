@@ -1,0 +1,67 @@
+body {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1442%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='url(%23SvgjsLinearGradient1443)'%3e%3c/rect%3e%3cpath d='M921.196%2c704.625C957.322%2c704.94%2c993.62%2c690.683%2c1011.62%2c659.359C1029.565%2c628.13%2c1023.837%2c589.469%2c1005.017%2c558.759C987.082%2c529.492%2c955.517%2c511.258%2c921.196%2c511.803C887.783%2c512.333%2c859.073%2c532.705%2c841.861%2c561.348C824.044%2c590.998%2c816.704%2c627.545%2c833.461%2c657.807C850.672%2c688.889%2c885.668%2c704.316%2c921.196%2c704.625' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1394.946%2c735.398C1449.319%2c733.502%2c1485.404%2c685.546%2c1512.155%2c638.171C1538.314%2c591.845%2c1560.057%2c536.603%2c1533.097%2c490.739C1506.374%2c445.279%2c1447.644%2c436.885%2c1394.946%2c438.779C1346.21%2c440.53%2c1299.148%2c458.931%2c1272.987%2c500.087C1244.785%2c544.452%2c1238.479%2c600.196%2c1262.67%2c646.87C1288.837%2c697.357%2c1338.116%2c737.38%2c1394.946%2c735.398' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1383.527%2c685.706C1498.682%2c687.288%2c1621.321%2c665.325%2c1683.867%2c568.623C1751.102%2c464.671%2c1751.392%2c325.547%2c1683.383%2c222.099C1620.676%2c126.716%2c1497.665%2c110.225%2c1383.527%2c111.776C1272.943%2c113.278%2c1156.949%2c136.83%2c1097.458%2c230.06C1033.941%2c329.598%2c1034.366%2c460.559%2c1097.15%2c560.561C1156.519%2c655.124%2c1271.883%2c684.172%2c1383.527%2c685.706' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M420.77 882.69 a352.94 352.94 0 1 0 705.88 0 a352.94 352.94 0 1 0 -705.88 0z' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1444.388%2c608.796C1480.115%2c608.537%2c1506.022%2c578.911%2c1523.671%2c547.846C1541.051%2c517.255%2c1553.273%2c479.807%2c1534.618%2c449.977C1516.67%2c421.277%2c1478.215%2c419.808%2c1444.388%2c421.066C1413.407%2c422.218%2c1381.707%2c430.118%2c1365.08%2c456.284C1347.308%2c484.251%2c1347.798%2c519.612%2c1363.086%2c549.011C1379.72%2c580.999%2c1408.335%2c609.058%2c1444.388%2c608.796' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M669.446%2c866.579C728.822%2c866.14%2c778.676%2c827.018%2c808.632%2c775.75C838.897%2c723.952%2c851.667%2c659.436%2c820.39%2c608.243C790.114%2c558.688%2c727.49%2c546.135%2c669.446%2c547.937C615.103%2c549.624%2c562.595%2c570.953%2c533.908%2c617.138C503.586%2c665.956%2c499.213%2c727.337%2c526.651%2c777.833C555.328%2c830.61%2c609.383%2c867.023%2c669.446%2c866.579' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1141.24 10.94 a322.09 322.09 0 1 0 644.18 0 a322.09 322.09 0 1 0 -644.18 0z' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1084.346%2c1050.152C1149.966%2c1052.001%2c1211.114%2c1021.601%2c1248.54%2c967.669C1292.785%2c903.911%2c1326.02%2c822.898%2c1289.609%2c754.364C1251.644%2c682.905%2c1165.184%2c655.031%2c1084.346%2c658.624C1009.782%2c661.938%2c941.592%2c704.44%2c908.426%2c771.305C878.346%2c831.949%2c899.311%2c901.597%2c935.431%2c958.849C968.729%2c1011.629%2c1021.965%2c1048.395%2c1084.346%2c1050.152' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M251.72 263.78 a289.34 289.34 0 1 0 578.68 0 a289.34 289.34 0 1 0 -578.68 0z' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1449.66%2c692.968C1483.916%2c692.275%2c1507.477%2c662.902%2c1524.748%2c633.31C1542.209%2c603.392%2c1557.07%2c567.937%2c1540.333%2c537.608C1523.201%2c506.562%2c1485.113%2c496.564%2c1449.66%2c497.242C1415.562%2c497.894%2c1381.881%2c511.446%2c1364.803%2c540.966C1347.701%2c570.527%2c1352.473%2c606.639%2c1369.12%2c636.458C1386.254%2c667.149%2c1414.517%2c693.679%2c1449.66%2c692.968' fill='rgba(13%2c 222%2c 219%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1442'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='89.06%25' y1='119.44%25' x2='10.94%25' y2='-19.44%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1443'%3e%3cstop stop-color='rgba(69%2c 8%2c 142%2c 0.94)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(23%2c 186%2c 176%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 3s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+    font-family: 'Inter', sans-serif;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+}
+body::-webkit-scrollbar {
+    width: 5px;
+  }
+   
+body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: skyblue;
+}
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(178, 196, 255);
+    outline: 1px solid slategrey;
+    border-radius: 40px;
+  }
+h1{
+    text-align: center;
+}
+hr{
+	border-top:2px solid #fdfdfd;
+	z-index:-1;
+	margin:0;
+    margin-bottom: 10px;
+}
+.blog{
+    text-align: center;
+    margin: 5%;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    color: black;
+}
+ol {
+    
+	padding: 1.5rem 1.5rem 1.5rem 4em;
+	border: 0.3rem solid rgb(255, 255, 255);
+	columns: 25rem;
+	column-gap: 7rem;
+	column-rule: 4px dotted rgb(255, 255, 255);
+	border-radius: 0.5rem;
+    color: black;
+}
+ol > * + * {
+	margin-top: 1rem;
+}
+::marker {
+	content: counters(list-item, '') ': ';
+	font-weight: 700;
+	font-size: 1.5em;
+	color: rgb(0, 0, 0);
+}
+li span {
+	display: block;
+}
+li span:first-child {
+	font-size: 1.5em;
+}
+li span:last-child {
+	font-style: italic;
+}
